@@ -1,8 +1,6 @@
 
 ![Example of Wiios Law](./mars-climate-orbiter.jpg)
 
-<small>Nasa</small>
-
 ---
 
 # Wiio's Law
@@ -13,14 +11,7 @@ Communication usually fails, except by accident.
 
 ---
 
-## Communication
-
-- If it can fail, it will.
-- If it cannot fail, it still most usually fails.
-- If it seems to succeed in the intended way, there's a misunderstanding.
-- If you are content with your message, it certainly fails.
-
----
+# Wiio's Law
 
 ### If a message can be interpreted in several ways, it will be interpreted in a manner that maximizes the damage.
 
@@ -53,7 +44,25 @@ Mob Programming is all about working well together as a team.
 - at the same time 
 - on the same code 
 - on the same screen 
-- solving the same problem.
+- solving the same problem
+
+---
+
+### A deliberate practice
+
+- Strong style (dedicated typist/talker)
+- Rotate frequently
+- Safe space
+- Regular retrospectives
+- Continuous improvement
+
+---
+
+### Benefits
+
+- We learn from each other.
+- We enjoy ourselves.
+- We identify and correct mistakes early.
 
 ---
 
@@ -63,9 +72,19 @@ Mob Programming is all about working well together as a team.
 
 ---
 
-- We learn from each other.
-- We enjoy ourselves.
-- We identify and correct mistakes early.
+### Timelapse of a day in a company dedicated to Mob Programming
+
+<video controls src="day-of-mob-programming.mp4"></video>
+
+-- <cite>https://www.youtube.com/watch?v=dVqUcNKVbYg</cite>
+
+---
+
+### Remote Mob Programming Timelapse
+
+<video controls src="remote-mob-programming-timelapse.mp4"></video>
+
+-- <cite>https://www.youtube.com/watch?v=SQLECiZBnc0</cite>
 
 ---
 
@@ -74,6 +93,16 @@ Mob Programming is all about working well together as a team.
 ---
 
 # mob.sh Demo
+
+---
+
+### Where to try mob programming
+
+- Join my Thursdays mob
+    - https://github.com/gregorriegler/mob-programming-rpg
+- Global Day of Coderetreat (coming up)
+- Weekly ApprovalTests Mob
+    - https://github.com/approvals/ApprovalTests.Python
 
 ---
 
