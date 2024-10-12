@@ -106,7 +106,7 @@ Mob Programming is all about working well together as a team.
 
 ---
 
-### Where to try mob programming
+### Where to try Mob Programming
 
 - Join my Thursdays mob
     - https://github.com/gregorriegler/mob-programming-rpg
