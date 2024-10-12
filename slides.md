@@ -120,7 +120,7 @@ Mob Programming is all about working well together as a team.
 
 - Principal Software Engineer at Tricentis
 - Maintainer of mob.sh
-- Technical Coach at the Samman Society
+- Technical Coach with the Samman Society
 - Software-Crafters Vienna
 - gregorriegler.com
 - www.linkedin.com/in/gregorriegler
