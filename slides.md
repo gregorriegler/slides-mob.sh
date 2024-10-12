@@ -21,6 +21,16 @@ Communication usually fails, except by accident.
 
 ---
 
+# 👤 📨 👤
+
+<p style="text-align: right">🏺</p>
+
+---
+
+# 👤🏺👤
+
+---
+
 ### Collaboration > Communication
 
 ---
